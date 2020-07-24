@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com"
   s.license          = 'EULA'
   s.author           = { "NiveVenkatraman" => "nithya.venkatraj@gmail.com" }
-  s.source           = {:git =>'https://github.com/NiveVenkatraman/EMVCore.git' }
+  s.source           = {:git =>'https://github.com/NiveVenkatraman/EMVCore.git' , :tag => '' }
   
 
 
